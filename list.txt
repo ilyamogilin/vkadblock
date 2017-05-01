@@ -1,3 +1,5 @@
 [Adblock Plus 2.0]
+!RU AdList[http://denis-ovs.narod.ru/]=2008-05-18
+!expires after 7
 vk.com##div#ads_left
 vk.com##div._ads_promoted_post_data_w
